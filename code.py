@@ -1,4 +1,4 @@
 def passing():
-	return 'You shall not pass.'
+	return 'You shall pass.'
 
 print(passing().upper())
